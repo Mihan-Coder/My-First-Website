@@ -14,10 +14,10 @@ body{
     margin-left: 5%;
     padding: 2%;
 }
-img{
-    width: 530px;
+#hi{
+    width: 520px;
     height: auto;
     padding-right: 5%;
     padding-top: 25%;
-    border-radius: 10px;
+    
 }
