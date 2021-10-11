@@ -1,3 +1,23 @@
-p{
-    color: blue;
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.Welcome{
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+#name{
+    color: orange;
+}
+.main{
+    width: 41%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+img{
+    width: 530px;
+    height: auto;
+    padding-right: 5%;
+    padding-top: 25%;
+    border-radius: 10px;
 }
