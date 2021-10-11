@@ -19,5 +19,7 @@ body{
     height: auto;
     padding-right: 5%;
     padding-top: 25%;
-    
+}
+#PO{
+    font-weight: 500;
 }
