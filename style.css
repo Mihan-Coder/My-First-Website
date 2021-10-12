@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 .Welcome{
     font-size: 45px;
@@ -22,4 +23,19 @@ body{
 }
 #PO{
     font-weight: 500;
+}
+.top-banner{
+    background-image: url(resourse/developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+#profile{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
 }
