@@ -23,19 +23,60 @@ body{
 }
 #PO{
     font-weight: 500;
+    color: dimgray;
 }
 .top-banner{
-    background-image: url(resourse/developer-portfolio/top-banner.png);
+    background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 section{
     height: 500px;
 }
-#profile{
+.profile{
     text-decoration: none;
     background-image: linear-gradient(45deg, lightSalmon,tomato);
     padding: 10px 20px;
     border-radius: 10px;
     color: white;
     font-weight: 700;
+}
+#para{
+    color: dimgray;
+}
+#po{
+    color: dimgray;
+}
+#mon{
+    width: 520px;
+    height: auto;
+    border-radius: 40px;
+    padding-top: 10%;
+
+}
+.jibon{
+    width: 41%;
+    margin-left: 5%;
+    padding: 2%;
+    float: right;
+}
+#balo{
+    font-weight: 1000;
+    font-size: 35px;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+#padding{
+    padding-left: 5%;
+}
+#para{
+    padding-left: 5%;
+    font-weight: 500;
+}
+#id{
+    padding-left: 14%;
+}
+.dream-area{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
